@@ -1,0 +1,8 @@
+.UserBox{
+    background-color: rgba(0, 157, 255, 0.073);
+    border: 2px dodgerblue solid;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    text-align: left;
+    padding-left: 10px;
+}

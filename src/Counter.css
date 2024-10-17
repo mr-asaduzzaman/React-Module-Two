@@ -1,0 +1,18 @@
+.CounterDiv{
+    background-color:aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.ButtonDiv{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.ImgClass{
+    height: 30px;
+}
